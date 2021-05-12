@@ -14,13 +14,11 @@
 </p>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/79331471/118046057-65ab4700-b33e-11eb-9b70-f53d8a3f2e75.gif
-'/>
+<img src='https://user-images.githubusercontent.com/79331471/118046057-65ab4700-b33e-11eb-9b70-f53d8a3f2e75.gif'/>
 </div>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/79331471/118047927-1a466800-b341-11eb-84ec-691889959799.png
-'/>
+<img src='https://user-images.githubusercontent.com/79331471/118047927-1a466800-b341-11eb-84ec-691889959799.png'/>
 </div>
 
 
